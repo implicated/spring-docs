@@ -1,5 +1,5 @@
-name: %COMPONENT%
-title: %TITLE%
+name: spring
+title: Learn Spring
 version: ~
 nav:
 - modules/ROOT/nav.adoc
